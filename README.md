@@ -13,9 +13,9 @@ The analysis explores the following questions:
 - What are the geographical patterns of bike rides, and is there a correlation with US Median Household Income?
 
 ## Repository Structure
-Notebooks: Jupyter notebook detailing data cleaning, merging, and initial analysis.
-Visualizations: Visual output of graphs and charts created during data exploration.
-Dashboards: Tableau dashboard file (Citi_Bike_Dashboard.twbx) showcasing interactive visualizations.
+- Notebooks: Jupyter notebook detailing data cleaning, merging, and initial analysis.
+- Visualizations: Visual output of graphs and charts created during data exploration.
+- Dashboard: Tableau dashboard file (Citi_Bike_Dashboard.twbx) showcasing interactive visualizations.
 
 ## Tableau Dashboard
 Explore the interactive Tableau dashboard here to view detailed visualizations and analyses derived from the merged dataset. The dashboard provides insights into eBike versus Classic bike usage, station analytics, and geographic trends.
